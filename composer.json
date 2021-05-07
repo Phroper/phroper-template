@@ -1,0 +1,14 @@
+{
+  "name": "apisc/phroper-template",
+  "description": "Phroper application template",
+  "minimum-stability": "dev",
+  "require": {
+    "apisc/phroper": "dev-master",
+    "apisc/phroper-admin": "dev-main"
+  },
+  "autoload": {
+    "psr-4": {
+      "": ""
+    }
+  }
+}
